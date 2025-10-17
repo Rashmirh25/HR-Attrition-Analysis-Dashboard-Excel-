@@ -48,7 +48,7 @@ The dataset contains detailed information about employees, including demographic
 
 ---
 
-## 🔎👀 Preview
+## 🔎👀 Preview - https://github.com/Rashmirh25/HR-Attrition-Analysis-Dashboard-Excel-/blob/main/HR%20Attrition%20Dashboard%20preview.PNG
 
 
 ## 🧩 Conclusion
